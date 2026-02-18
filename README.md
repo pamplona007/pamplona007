@@ -9,7 +9,7 @@
 - **Frontend:** React, React Native, TypeScript, CSS
 - **Backend:** Node.js, Flask, Express, Python
 - **APIs:** RESTful API design and integration
-- **Databases:** Postgres, DynamoDB
+- **Databases:** Postgres, Mongo
 - **DevOps:** Docker, CI/CD pipelines, GitHub Actions
 
 ---
@@ -40,7 +40,7 @@ Explore more projects in the repositories above!
 ## 📞 Contact Me
 
 - **Website:** [lucaspamplona.com](http://lucaspamplona.com)
-- **LinkedIn:** [linkedin.com/in/lucaspamplona](#)
+- **LinkedIn:** [linkedin.com/in/lucaspamplona](https://www.linkedin.com/in/lucaspamplona/)
 - **GitHub:** [github.com/pamplona007](https://github.com/pamplona007)
 - **Email:** [lucas250598@gmail.com](mailto:lucas250598@gmail.com)
 

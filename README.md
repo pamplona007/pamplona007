@@ -42,7 +42,7 @@ Explore more projects in the repositories above!
 - **Website:** [lucaspamplona.com](http://lucaspamplona.com)
 - **LinkedIn:** [linkedin.com/in/lucaspamplona](https://www.linkedin.com/in/lucaspamplona/)
 - **GitHub:** [github.com/pamplona007](https://github.com/pamplona007)
-- **Email:** [lucas250598@gmail.com](mailto:lucas250598@gmail.com)
+- **Email:** [pamplona.developer@gmail.com](mailto:pamplona.developer@gmail.com)
 
 ---
 

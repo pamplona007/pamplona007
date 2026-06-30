@@ -1,4 +1,5 @@
-## Hi there 👋
+
+Olá! Sou Pamplona, um desenvolvedor de software brasileiro apaixonado por frontend. Sou formado em design gráfico e estou formando em ciências da computação, porém já trabalho na área desde 2019 com ReactJS, NodeJS.
 
 <!--
 **pamplona007/pamplona007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
